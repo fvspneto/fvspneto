@@ -50,11 +50,5 @@ namespace MyLife
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![fvspneto's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fvspneto&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fvspneto&layout=compact&theme=transparent)
-
-</div>
 
