@@ -1,8 +1,3 @@
-Here's the updated **GitHub `README.md`** using the transparent theme and your username `fvspneto`:
-
-***
-
-```markdown
 <div align="center">
 
 # 👤 @fvspneto
