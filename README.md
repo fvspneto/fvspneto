@@ -58,11 +58,3 @@ namespace MyLife
 
 </div>
 
----
-
-<div align="center">
-
-**💀 Coding in the shadows since 2011**
-
-</div>
-```
