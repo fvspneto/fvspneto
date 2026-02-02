@@ -1,11 +1,11 @@
-You're absolutely right! Here's the **complete, ready-to-paste GitHub `README.md`** in pure Markdown:
+Here's the updated **GitHub `README.md`** using the transparent theme and your username `fvspneto`:
 
 ***
 
 ```markdown
 <div align="center">
 
-# 👤 @YOUR_USERNAME
+# 👤 @fvspneto
 
 **Full-Stack Developer // System Architect**
 
@@ -57,9 +57,9 @@ namespace MyLife
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvspneto)](https://github.com/anuraghazra/github-readme-stats)
+![fvspneto's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvspneto&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fvspneto&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fvspneto&layout=compact&theme=transparent)
 
 </div>
 
@@ -71,5 +71,3 @@ namespace MyLife
 
 </div>
 ```
-
-***
